@@ -1,0 +1,7 @@
+D:\Fortran-2\Hybrid_Effective\test1.plt
+D:\Fortran-2\Hybrid_Effective\test1.dat
+D:\Fortran-2\Hybrid_Effective\test1.out
+D:\Fortran-2\Hybrid_Effective\test1.his
+D:\Fortran-2\Hybrid_Effective\test1.stn
+D:\Fortran-2\Hybrid_Effective\test1.nnd
+D:\Fortran-2\Hybrid_Effective\test1.iel
